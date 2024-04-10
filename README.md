@@ -12,7 +12,7 @@ Import the numpy module to use the built-in functions for calculation
 Prepare the list from the given matrix and assign in np.array().
 
 ### Step 3: 
-Calculate the Inverse using np.linalg.inv()
+Calculate the Inverse of the matrix using np.linalg.inv()
 
 ### Step 4: 
 End the program.
