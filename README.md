@@ -29,6 +29,7 @@ result=np.linalg.inv(a)
 print(result)
 ```
 
+
 ## Output:
 ![alt text](ma3.png)
 
